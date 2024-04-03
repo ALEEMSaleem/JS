@@ -23,5 +23,5 @@ let accountEmail = "hello@com";
 let accountPassword = "123456";
 let accountState = "New Jersey";
 
-console.log(typeof(accountEmail));
+console.log(typeof(accountPassword));
 console.table({accountID, accountEmail, accountPassword, accountState});
