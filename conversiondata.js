@@ -15,6 +15,6 @@ let booleanLogedIn = Boolean(logedIn)
 let someNumber = 44
 let stringNumber = String(someNumber)
 
-console.log(stringNumber);
-console.log(typeof stringNumber);
+console.log(someNumber);
+console.log(typeof(stringNumber));
 

@@ -22,6 +22,7 @@ const accountID = 11223344;
 let accountEmail = "hello@com";
 let accountPassword = "123456";
 let accountState = "New Jersey";
+let accountCity;
 
-console.log(typeof(accountPassword));
-console.table({accountID, accountEmail, accountPassword, accountState});
+console.log(typeof(accountCity));
+console.log([accountID, accountEmail, accountPassword, accountState]);
